@@ -1,6 +1,6 @@
 # Runner-Q
 
-A robust, scalable activity queue and worker system for Rust applications with pluggable storage backends.
+Durable Rust functions, with pluggable storage.
 
 ## Features
 
